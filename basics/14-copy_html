@@ -1,1 +1,2 @@
-#!/bin/bash cp --no-clobber *.html ../
+#!/bin/bash
+cp -n *.html ..
