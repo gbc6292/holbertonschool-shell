@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --extension /tmp/iamafile
+ls --extension iamafile
