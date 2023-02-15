@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq -u | wc -w
+uniq -u
