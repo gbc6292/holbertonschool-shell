@@ -1,2 +1,2 @@
 #!/bin/bash
-sort '[[:alpha:]]*' '[[:upper]]*' /etc/ssh/sshd_config | uniq -u
+grep '^[[:alpha:]]' /etc/ssh/sshd_config
