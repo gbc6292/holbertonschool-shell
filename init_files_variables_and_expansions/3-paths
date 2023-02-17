@@ -1,2 +1,2 @@
 #!/bin/bash
-alias PATH=wc -c
+alias PATH="find . -type d | wc -l"
