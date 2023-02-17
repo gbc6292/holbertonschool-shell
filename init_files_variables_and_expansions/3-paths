@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(('echo $PATH | grap  wc -l))
+echo $((`echo $PATH | grap  wc -l + 1))
